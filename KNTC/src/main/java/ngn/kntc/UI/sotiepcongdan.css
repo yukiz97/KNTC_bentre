@@ -1,0 +1,73 @@
+.btn-sotcd {
+	border: none !important;
+	box-shadow: 2px 4px 4px -2px rgba(0, 0, 0, 0.35) !important;
+	color: #fff !important;
+	font-weight: bold !important;
+	border-radius: 51px !important;
+	padding: 0px 5px !important;
+	font-size: 11px;
+	margin: auto !important;
+}
+
+.btn-sotcd-chitiet {
+	background: #4693d0 !important;
+}
+/* Chi tiết layout*/
+.vLayout-thongtin-tcd {
+	font-size: 15px !important
+}
+
+.vLayout-thongtin-tcd .v-slot {
+	padding-bottom: 10px !important;
+	margin-bottom: 10px !important;
+	border-bottom: 1px solid #e6e6e6 !important;
+}
+
+.row-nguoidaidien-congty {
+	border-bottom: 2px solid #e24141 !important;
+	font-size: 15px !important;
+	padding-bottom: 10px !important;
+}
+
+.vLayout-nguoidaidien-tcd .v-slot .v-verticallayout {
+	border-bottom: 1px solid #e6e6e6 !important;
+}
+
+.vLayout-nguoidaidien-single-tcd {
+	font-size: 15px !important
+}
+
+.vLayout-nguoidaidien-single-tcd .v-slot {
+	margin-bottom: 10px !important;
+}
+
+.vLayout-thongtin-donthu-main {
+	font-size: 15px !important;
+}
+
+.vLayout-thongtin-donthu-main>.v-slot {
+	border-bottom: 1px solid #d6d6d6;
+	padding-bottom: 10px !important;
+}
+
+.label-subcaption-thongtin-donthu {
+	font-size: 18px !important;
+	font-weight: bold !important;
+	color: #e83e3e !important;
+	margin-bottom: 5px !important;
+}
+
+.vLayout-sublayout-thongtin-donthu .v-slot {
+	margin-bottom: 5px !important;
+}
+
+.vLayout-sublayout-nguoidaidien-thongtin-donthu {
+	border-top: 1px solid #e6e6e6 !important;
+	padding-top: 5px !important;
+}
+
+.lbl-incell-height
+{
+	max-height: 150px !important;
+	overflow: auto !important;
+}

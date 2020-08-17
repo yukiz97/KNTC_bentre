@@ -1,0 +1,80 @@
+.form-them-vanban {
+	padding: 0 20px;
+}
+
+.form-them-vanban .v-formlayout-captioncell {
+	text-align: right;
+}
+
+.form-them-vanban .v-textfield {
+	border-radius: 5px !important;
+}
+
+.lbl-caption-main {
+	font-size: 20px;
+	width: 100%;
+	margin-top: 9px;
+	font-weight: bold;
+	color: #28619e;
+	border-bottom: 2px solid #7092b7;
+	border-radius: 0px;
+}
+
+.table-vanban{
+	font-size:12px !important;
+}
+
+.table-vanban .v-table-cell-wrapper {
+	padding: 5px !important;
+	line-height: 1.5 !important;
+}
+
+.table-vanban .v-table-header-cell {
+	background: #57967f;
+	color: #fff;
+	font-weight: bold;
+	height: 36px;
+}
+
+.table-vanban .v-table-header-cell-desc, .table-vanban .v-table-header-cell-asc
+	{
+	background: #437362;
+	color: #fff;
+	font-weight: bold;
+}
+
+.kntc .v-window-header {
+	background: #266698;
+	color: #fff !important;
+	font-weight: bold;
+	border-bottom: 1px solid #266698;
+}
+/* Custom window */
+.kntc .v-window-header .v-icon {
+	margin-right: 5px;
+}
+
+.kntc .v-window-maximizebox, .v-window-restorebox {
+	right: 27px;
+	padding-left: 0px;
+	font-size: 20px !important;
+	font-weight: bold !important;
+	background: #266698 !important;
+	color: white !important;
+}
+
+.kntc .v-window-outerheader {
+	background: #266698 !important;
+}
+
+.kntc .v-window-closebox {
+	background: #266698 !important;
+	color: #fff !important;
+	font-size: 25px !important;
+	height: auto;
+}
+
+.layout-detail-vanban>.v-slot {
+	padding-bottom: 5px;
+	border-bottom: 1px solid #eaeaea;
+}

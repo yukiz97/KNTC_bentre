@@ -1,0 +1,164 @@
+/* Custom Button */
+.cddh .v-button, .cddh .v-button-friendly, .cddh .v-button-primary,
+	.cddh .v-button-danger {
+	border: none !important;
+	box-shadow: none !important;
+}
+
+.cddh .v-button-link {
+	text-decoration: none !important;
+}
+
+.cddh .v-button, .cddh  .v-button:active, .cddh .v-button:focus, .cddh .v-button:hover
+	{
+	outline: none !important;
+}
+
+/* Custom icon */
+.cddh .v-icon+.v-captiontext, .cddh .v-icon+span {
+	margin-left: 3px !important;
+}
+
+.cddh .v-select-optiongroup-horizontal .v-radiobutton, .cddh .v-select-optiongroup-horizontal .v-checkbox
+	{
+	display: initial;
+}
+
+/* Custom textfile */
+.cddh .v-textfield {
+	color: #0f2638 !important;
+}
+
+.cddh .v-textfield[class*="prompt"] {
+	color: #3a94ce !important;
+}
+
+/* Custom datefield */
+.cddh .v-datefield [class*="textfield"] {
+	color: #2688ca !important;
+}
+
+.cddh .v-datefield [class*="button"] {
+	border-right: none !important;
+}
+
+/* Custom fillterselect */
+.cddh .v-filterselect-compact [class*="input"], .cddh .v-filterselect-small [class*="input"]
+	{
+	color: #3492cf !important;
+}
+
+.cddh .v-filterselect-compact [class$="button"], .cddh .v-filterselect-small [class$="button"]
+	{
+	width: 36px !important;
+}
+
+.cddh .v-filterselect[class*="prompt"]>[class*="input"] {
+	color: #ff0707 !important;
+}
+
+.cddh .v-table-table .v-table-row p, .cddh .v-table-table .v-table-row-odd p
+	{
+	margin: 15px 0px !important;
+}
+
+.cddh .select {
+	width: auto !important;
+}
+
+/* Custom tabsheet */
+.cddh .v-tabsheet-tabitemcell .v-caption {
+	color: #1a50a2 !important;
+}
+
+.cddh .v-tabsheet-tabitemcell .v-tabsheet-tabitem-selected .v-caption.v-caption
+	{
+	border-bottom-color: #1d710a !important;
+	color: #1d710a !important;
+	font-weight: bold !important;
+}
+
+/* Custom window */
+.cddh .v-window-header {
+	color: white !important;
+	font-weight: bold !important;
+	background-image: linear-gradient(to bottom, #2b579a 2%, #1850a5 98%)
+		!important;
+}
+
+.cddh .v-window-header .v-icon {
+	margin-right: 5px;
+}
+
+.cddh .v-window-maximizebox, .v-window-restorebox {
+	right: 27px;
+	padding-left: 0px;
+	font-size: 20px !important;
+	font-weight: bold !important;
+	background: #2153a1 !important;
+	color: white !important;
+}
+
+.cddh .v-window-outerheader {
+	background: #2053a1 !important;
+}
+
+.cddh .v-window-closebox {
+	background: #2053a1 !important;
+	color: #fff !important;
+	font-size: 25px !important;
+	height: auto;
+}
+
+/* Custom treetable */
+.cddh .v-treetable .v-icon {
+	padding-right: 5px;
+	color: #0f53a0;
+	font-weight: bold;
+}
+
+/* Custom table */
+.cddh .v-table {
+	position: relative;
+	background: #fafafa;
+	color: #2c569a;
+	overflow: hidden;
+}
+
+.cddh .v-table-header {
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	box-shadow: 0 0 0 1px #d4d4d4;
+}
+
+/* Custom panel */
+.cddh .v-panel {
+	border: none !important;
+}
+
+.cddh .v-select-optiongroup-horizontal {
+	white-space: nowrap !important;
+	height: 32px !important;
+	padding-top: 5px !important;
+}
+
+/* Custom indicator */
+.cddh .v-loading-indicator {
+	background-color: #ff0080 !important;
+}
+
+/* Custom scollable */
+.cddh .v-scrollable {
+	overflow: auto;
+}
+
+/* Custom upload */
+.cddh .v-upload-immediate .v-button {
+	width: 100%;
+	color: white;
+	background: red;
+	box-shadow: none;
+	border: none;
+	display: block;
+}

@@ -1,0 +1,35 @@
+.donthulist-item-block {
+	padding: 9px !important;
+	background: white !important;
+	box-shadow: 0px 0px 2px 1px #e8e8e8 !important;
+	margin-top: 8px !important;
+	position: relative !important;
+	cursor: pointer !important;
+}
+
+.donthulist-item-block:hover {
+	background: #effaff !important;
+}
+
+.donthulist-item-block .v-slot {
+	border-bottom: 1px dashed #dad6d6 !important;
+	padding: 5px 0px !important;
+	color: #1d5d79 !important;
+}
+
+.donthulist-item-block .v-slot:last-child {
+	border: none !important;
+}
+
+.donthulist-item-info {
+	padding-right: 15px !important;
+	display: inline-block !important;
+}
+
+.donthulist-item-iconhead {
+	width: unset;
+	position: absolute;
+	top: -17px;
+	left: -3px;
+	font-size: 23px;
+}

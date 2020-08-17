@@ -1,0 +1,51 @@
+.btn-baocao-mocthoigian {
+	background: #89b7a0 !important;
+	box-shadow: none !important;
+	color: #fff !important;
+	font-weight: bold !important;
+}
+
+.btn-baocao-mocthoigian-active {
+	background: #369465 !important;
+}
+
+.table-baocao-display table {
+	border-collapse: collapse;
+	font-size: 15px;
+	text-align: center;
+	color: black;
+	width: 1700px !important;
+	table-layout: fixed !important;
+	height: 467px !important;
+	white-space: normal !important;
+	margin: 17px !important;
+}
+
+.table-baocao-display table, .table-baocao-display  tr,
+	.table-baocao-display  td, .table-baocao-display  th {
+	border: 1px solid black;
+}
+
+.table-baocao-display td {
+	padding: 2px;
+}
+
+.horizontalLayout-labelButton {
+	cursor: pointer;
+}
+
+.label-arrow {
+	font-size: 10px !important;
+	color: #3fa5ff !important;
+	position: absolute !important;
+	top: 6px !important;
+	right: -7px !important;
+}
+
+.label-arrow-active .v-icon {
+	transform: rotate(90deg) !important;
+}
+
+.verticalLayout-button-display-none {
+	display: none !important;
+}

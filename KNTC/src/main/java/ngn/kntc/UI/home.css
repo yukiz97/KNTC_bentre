@@ -1,0 +1,55 @@
+.hLayout-block {
+	color: #fff;
+	padding: 12px;
+	-webkit-box-shadow: 2px 4px 5px 0px rgba(204, 202, 204, 1);
+	-moz-box-shadow: 2px 4px 5px 0px rgba(204, 202, 204, 1);
+	box-shadow: 2px 4px 5px 0px rgba(204, 202, 204, 1);
+	cursor: pointer;
+	transition: 0.5s all;
+	opacity: 0.7;
+}
+
+.hLayout-block-xuly {
+	background: #f66b4e !important;
+}
+
+.hLayout-block-thuly {
+	background: #0da550 !important;
+}
+
+.hLayout-block-giaiquyet {
+	background: #0071bd !important;
+}
+
+.hLayout-block:hover {
+	opacity: 1;
+}
+
+.lbl-home-caption {
+	font-size: 20px;
+	margin: 15px 0 5px 0;
+	font-weight: bold;
+	color: #ffffff;
+	background: #6cbdc7;
+	padding: 4px;
+	text-align: center !important;
+	margin-bottom: 13px;
+}
+
+.lbl-home-blockIcon {
+	font-size: 52px !important;
+	text-align: center !important;
+}
+
+.block-tinhtrang-lienthong {
+	background: #fff;
+	padding: 15px;
+	box-shadow: 0px 0px 3px 1px #ccc3c3;
+	border-radius: 5px;
+}
+
+.block-tinhtrang-lienthong .rl-row {
+	margin-bottom: 10px !important;
+	border-bottom: 1px dashed #c1bebe !important;
+	padding: 3px !important;
+}
